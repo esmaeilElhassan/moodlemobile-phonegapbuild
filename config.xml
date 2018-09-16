@@ -2,20 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "net.ust.elearning"
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
-
-    <description>
-        Moodle official app
-    </description>
-
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
-    </author>
-
+    <name>U.S.T Elearning</name>
+    <description>U.S.T Elearning</description>
+    <author email="wailabualela@gmail.com" href="https://ust-elearning.net">isc development team</author>
+    
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
         <string>3.5.20</string>
     </edit-config>
