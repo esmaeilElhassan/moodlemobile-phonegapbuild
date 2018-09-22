@@ -8,7 +8,7 @@
         version   = "3.5.2">
     <name>U.S.T Elearning</name>
     <description>University of Science and  Technology Sudan (التقانة) Elearning app.</description>
-    <author email="wailabualela@gmail.com" href="https://ust-elearning.net">isc development team</author>
+    <author email="wailabualela@gmail.com" href="https://ust-elearning.net">innovative developer</author>
     
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
         <string>3.5.20</string>
