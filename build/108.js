@@ -1,6 +1,6 @@
 webpackJsonp([108],{
 
-/***/ 1788:
+/***/ 1789:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11,7 +11,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(941);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__coursecompetencies__ = __webpack_require__(1909);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__coursecompetencies__ = __webpack_require__(1910);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -60,7 +60,7 @@ var AddonCompetencyCourseCompetenciesPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1909:
+/***/ 1910:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -101,7 +101,7 @@ var AddonCompetencyCourseCompetenciesPage = /** @class */ (function () {
     }
     AddonCompetencyCourseCompetenciesPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-competency-coursecompetencies',template:/*ion-inline-start:"C:\Users\wailabualela\GitHub\moodlemobile2\src\addon\competency\pages\coursecompetencies\coursecompetencies.html"*/'<ion-header>\n\n    <ion-navbar core-back-button>\n\n        <ion-title>{{ \'addon.competency.coursecompetencies\' | translate }}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<addon-competency-course class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-competency-course>'/*ion-inline-end:"C:\Users\wailabualela\GitHub\moodlemobile2\src\addon\competency\pages\coursecompetencies\coursecompetencies.html"*/,
+            selector: 'page-addon-competency-coursecompetencies',template:/*ion-inline-start:"/home/wailbualela/Github/moodlemobile2/src/addon/competency/pages/coursecompetencies/coursecompetencies.html"*/'<ion-header>\n    <ion-navbar core-back-button>\n        <ion-title>{{ \'addon.competency.coursecompetencies\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<addon-competency-course class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-competency-course>'/*ion-inline-end:"/home/wailbualela/Github/moodlemobile2/src/addon/competency/pages/coursecompetencies/coursecompetencies.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["s" /* NavParams */]])
     ], AddonCompetencyCourseCompetenciesPage);
